@@ -1,0 +1,7 @@
+-T 11 -K dVTcdVe -A -N Bob -F logfile.txt 
+-T 12 -K dVTcdVe -A -R 122 -N Bob  -F logfile.txt 
+-T 13 -K dVTcdVe -A -D Bob  -F logfile.txt 
+-T 14 -K dVTcdVe -L -D Bob  -F logfile.txt 
+-T 15 -K dVTcdVe -A -D Bob  -F logfile.txt 
+-T 16 -K dVTcdVe -A -R 34 -D Bob  -F logfile.txt 
+-T 17 -K dVTcdVe -L -R 34 -D Bob  -F logfile.txt 

@@ -1,0 +1,4 @@
+-K secret -T 0 -A -D Ritchey -F log2
+-K secret -T 1 -A -R 0 -D Ritchey -F log2
+-K secret -T 2 -A -N Andrew -F log2
+-K secret -T 3 -A -R 0 -N Andrew -F log2

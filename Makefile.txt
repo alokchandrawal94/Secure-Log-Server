@@ -1,0 +1,3 @@
+all:	
+	g++ logread.c -o logread
+	g++ logappend.c -o logappend	
